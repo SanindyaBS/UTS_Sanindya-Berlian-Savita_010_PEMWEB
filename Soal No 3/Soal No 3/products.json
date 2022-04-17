@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/blazer 1.jpg",
+    "nama": "Blazer Muslim",
+    "harga": "200.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:sbsstore.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/gamis 1.jpg",
+    "nama": "Gamis Muslim 1",
+    "harga": "150.000",
+    "ukuran": "L",
+    "contact": "<p> Email:sbsstore.com </p> <p> Phone:082543812 </p> <p>Address:Jl.Pahlawan No.1 Surabaya </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/gamis 2.jpg",
+    "nama": "Gamis Muslim 2",
+    "harga": "210.000",
+    "ukuran": "M",
+    "contact": "<p> Email:sbsstore.com </p> <p> Phone:083642187 </p> <p>Address:Jl.Sudirman No.5 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/gamis 3.jpeg",
+    "nama": "Gamis Muslim 3",
+    "harga": "104.000",
+    "ukuran": "M",
+    "contact": "<p> Email:sbsstore.com </p> <p> Phone:082634193 </p> <p>Address:Jl.Kamboja No.10 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/outer 3.jpg",
+    "nama": "Outer Muslim",
+    "harga": "115.000",
+    "ukuran": "L",
+    "contact": "<p> Email:sbsstore.com </p> <p> Phone:0831129874 </p> <p>Address:Jl.Seruni No.14 Surabaya </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "product-images/rok plisket 2.jpg",
+    "nama": "Rok Plisket",
+    "harga": "112.000",
+    "ukuran": "M",
+    "contact": "<p> Email:sbsstore.com </p> <p> Phone:0828812346 </p> <p>Address:Jl.Anggrek No.9 Surabaya </p>"
+  }
+]
